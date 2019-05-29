@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Go Journey on WebKinder Doku</title>
+    <link>https://webkinder.github.io/docs/posts/</link>
+    <description>Recent content in My Go Journey on WebKinder Doku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://webkinder.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gutenberg</title>
+      <link>https://webkinder.github.io/docs/posts/gutenberg/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://webkinder.github.io/docs/posts/gutenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umgang mit Bildern</title>
+      <link>https://webkinder.github.io/docs/posts/umgang-mit-bildern/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://webkinder.github.io/docs/posts/umgang-mit-bildern/</guid>
+      <description>To improve the loading performance of our webpages we make use of responsive images. This can be done the following way.
+Guide Include the macro at the very top of the twig templates.
+your-template.twig {% import &#39;macros/responsive-images.twig&#39; as responsiveImage %}  Use the macro We can make use of the macro by executing its displayResponsiveImage function:
+{{ responsiveImage.displayResponsiveImage(image) }}   Notice: The above code will not work, since we haven&amp;rsquo;t declared the image variable so far.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://webkinder.github.io/docs"
+languageCode = "de-ch"
+title = "WebKinder Doku"
+theme = "kube"
