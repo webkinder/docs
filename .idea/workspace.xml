@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cfbac8-ec08-4151-bc4d-ddda33dfc0c7" name="Default Changelist" comment="" />
+    <list default="true" id="d0cfbac8-ec08-4151-bc4d-ddda33dfc0c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/highlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kube.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kube.demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kube.legenda.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kube.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/master.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-Semibold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Lato-SemiboldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/common/icon-twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/common/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/common/logx2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicons/logo-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-minimalism.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-typo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kube/brand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kube/icon-baseline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kube/icon-minimalism.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kube/icon-typo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kube/typography/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kube/typography/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kube.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kube.legenda.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kube.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/master.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tocbot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/gutenberg/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/umgang-mit-bildern/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/1/index.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +69,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="34" />
+          <entry key="HTML" value="35" />
           <entry key="JSON" value="2" />
-          <entry key="Markdown" value="11" />
+          <entry key="Markdown" value="12" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="2" />
         </counts>
@@ -33,7 +79,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="342" />
-          <entry key="Markdown" value="373" />
+          <entry key="Markdown" value="461" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
@@ -51,20 +97,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/content/posts/umgang-mit-bildern.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="6" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+            <state>
+              <folding>
+                <element signature="n#style#0;n#path#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#circle#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#circle#1;n#svg#0;n#a#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/posts/umgang-mit-bildern.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,6 +221,7 @@
         <option value="$PROJECT_DIR$/content/posts/umgang-mit-bildern.md" />
         <option value="$PROJECT_DIR$/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -192,40 +255,6 @@
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="archetypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="_gen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,12 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552898219158</updated>
       <workItem from="1552898220666" duration="1928000" />
-      <workItem from="1559135001777" duration="4032000" />
+      <workItem from="1559135001777" duration="4362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5960000" />
+    <option name="totallyTimeSpent" value="6290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="23" width="2560" height="1417" extended-state="6" />
@@ -322,11 +351,6 @@
         <state relative-caret-position="270">
           <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-699" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/docs/introduction.md">
@@ -538,7 +562,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -553,7 +577,28 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="57">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#path#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#circle#1;n#svg#0;n#a#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
