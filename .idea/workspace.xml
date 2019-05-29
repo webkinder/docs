@@ -1,113 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cfbac8-ec08-4151-bc4d-ddda33dfc0c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/docs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/blog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/docs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/highlight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/kube.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/kube.demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/kube.legenda.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/kube.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/master.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/usage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/Lato-SemiboldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/common/icon-twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/common/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/common/logx2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicons/logo-384x384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-minimalism.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-typo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kube/brand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kube/icon-baseline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kube/icon-minimalism.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kube/icon-typo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kube/typography/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kube/typography/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/kube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/kube.legenda.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/kube.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/master.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/tocbot.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/highlight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/kube.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/kube.demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/kube.legenda.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/kube.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/master.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/usage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/Lato-SemiboldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/common/icon-twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/common/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/common/logx2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/favicons/logo-384x384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icon-minimalism.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icon-typo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/kube/brand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/kube/icon-baseline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/kube/icon-minimalism.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/kube/icon-typo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/kube/typography/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/kube/typography/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/kube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/kube.legenda.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/kube.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/master.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/tocbot.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/kube" afterDir="false" />
-    </list>
+    <list default="true" id="d0cfbac8-ec08-4151-bc4d-ddda33dfc0c7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,8 +23,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="33" />
-          <entry key="JSON" value="1" />
+          <entry key="HTML" value="34" />
+          <entry key="JSON" value="2" />
           <entry key="Markdown" value="11" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="2" />
@@ -147,7 +41,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -157,6 +51,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/posts/umgang-mit-bildern.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -187,7 +90,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="30">
-                <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,39 +119,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/posts/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="40" lean-forward="true" selection-end-line="9" selection-end-column="40" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/posts/gutenberg.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="90">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+                <caret line="6" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/partials/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#path#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#circle#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#circle#1;n#svg#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -330,6 +207,24 @@
             <path>
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="_gen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -374,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552898219158</updated>
       <workItem from="1552898220666" duration="1928000" />
-      <workItem from="1559135001777" duration="3807000" />
+      <workItem from="1559135001777" duration="4032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5735000" />
+    <option name="totallyTimeSpent" value="5960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="23" width="2560" height="1417" extended-state="6" />
@@ -415,13 +310,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -505,9 +393,6 @@
     <entry file="file://$PROJECT_DIR$/themes/kube/layouts/partials/favicon.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/kube/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -578,7 +463,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
-            <caret line="9" column="40" lean-forward="true" selection-end-line="9" selection-end-column="40" />
+            <caret line="9" column="40" selection-end-line="9" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
@@ -587,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/layouts/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#path#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#circle#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
@@ -600,7 +485,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -627,17 +512,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/posts/umgang-mit-bildern.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -657,6 +532,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/umgang-mit-bildern.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
